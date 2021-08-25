@@ -1,8 +1,8 @@
 # Google Earth Engine - Cyclone Idai Flooding
 
-## Methdology
-
 The notebook is viewable at [Juptyer nbviewer](https://nbviewer.jupyter.org/github/dgreenslade/gee-flooding-cyclone-idai/blob/main/gee-flooding-cyclone-idai.ipynb)
+
+## Methdology
 
 This exercise consisted of the following methodology, adapted from the advice from [UN-SPYDER](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step#Step%202:%20Time%20frame%20and%20sensor%20parameters%20selection):
 
