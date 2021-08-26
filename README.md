@@ -1,6 +1,6 @@
 # Google Earth Engine - Cyclone Idai Flooding
 
-The notebook is viewable at [Juptyer nbviewer](https://nbviewer.jupyter.org/github/dgreenslade/gee-flooding-cyclone-idai/blob/main/gee-flooding-cyclone-idai.ipynb)
+The notebook is viewable at [Juptyer nbviewer](https://nbviewer.jupyter.org/github/dgreenslade/gee-flooding-cyclone-idai/blob/main/notebook/gee-flooding-cyclone-idai.ipynb)
 
 ## Methdology
 
